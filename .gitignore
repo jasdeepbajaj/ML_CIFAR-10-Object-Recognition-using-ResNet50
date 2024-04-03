@@ -1,3 +1,13 @@
+#Files related to this project
+kaggle.json
+cifar-10.zip
+sampleSubmission.csv
+train/
+train.7z
+test.7z
+trainLabels.csv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
