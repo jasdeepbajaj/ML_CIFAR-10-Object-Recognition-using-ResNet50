@@ -6,6 +6,7 @@ train/
 train.7z
 test.7z
 trainLabels.csv
+.vscode
 
 
 # Byte-compiled / optimized / DLL files
